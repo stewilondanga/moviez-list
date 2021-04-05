@@ -3,6 +3,15 @@
   src: url(ParryHotter.ttf);
 }
 
+body {
+  background: url('http://res.cloudinary.com/damlab/image/upload/v1533215015/hogwarts2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.70;
+  background-attachment: fixed;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -112,15 +121,6 @@
   transition-delay: 0.4s;
 }
 
-body {
-  background: url('http://res.cloudinary.com/damlab/image/upload/v1533215015/hogwarts2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.70;
-  background-attachment: fixed;
-
-}
 table {
   margin: 10px auto;
   border-collapse: collapse;
