@@ -168,12 +168,13 @@ caption {
     display: none;
   }
 
-  /*tr {
+  tr {
     display: flex;
     flex-direction: column;
     border-bottom: none;
   }
-  .mouseover:hover {
+
+  /*.mouseover:hover {
     transform: scale(1.0);
   }
 
