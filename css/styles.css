@@ -178,13 +178,12 @@ caption {
     transform: scale(1.0);
   }
 
-  /*td {
+  td {
     margin: 0 auto;
   }
 }
 
-
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
