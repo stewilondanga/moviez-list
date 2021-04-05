@@ -113,7 +113,7 @@ body {
   transition-delay: 0.4s;
 }
 
-/*table {
+table {
   margin: 10px auto;
   border-collapse: collapse;
   border-radius: 5px;
@@ -122,7 +122,7 @@ body {
   max-width: 2000px;
 }
 
-table td, table th {
+/*table td, table th {
   border: .02px solid transparent	;
   color: #DAA520	;
   padding: 50px 20px 30px 20px;
