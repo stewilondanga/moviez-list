@@ -25,7 +25,7 @@ body {
   margin-right: 0px;
 }
 
-/*.share-button {
+.share-button {
   cursor: pointer;
   display: inline-block;
   height: 42px;
@@ -40,7 +40,7 @@ body {
   perspective: 200px;
 }
 
-.share-button__back {
+/*.share-button__back {
   background-color: #368b8b;
   padding: 5px;
   border-radius: 20px;
