@@ -163,8 +163,8 @@ caption {
   font-size: 30px;
 }
 
-/*@media screen and (max-width: 1200px) {
-  th{
+@media screen and (max-width: 1200px) {
+  /*th{
     display: none;
   }
 
