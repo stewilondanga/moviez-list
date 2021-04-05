@@ -151,14 +151,14 @@ img {
   border-radius: 5px;
 }
 
-/*caption {
+caption {
   text-align: center;
   font-family: ParryHotter;
   font-size: 36px;
-  color: #DAA520	;
+  color: #DAA520;
 }
 
-.mouseover:hover {
+/*.mouseover:hover {
   transform: scale(1.2);
   font-size: 30px;
 }
