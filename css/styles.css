@@ -164,11 +164,11 @@ caption {
 }
 
 @media screen and (max-width: 1200px) {
-  /*th{
+  th {
     display: none;
   }
 
-  tr {
+  /*tr {
     display: flex;
     flex-direction: column;
     border-bottom: none;
