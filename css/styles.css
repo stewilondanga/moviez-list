@@ -158,12 +158,12 @@ caption {
   color: #DAA520;
 }
 
-/*.mouseover:hover {
+.mouseover:hover {
   transform: scale(1.2);
   font-size: 30px;
 }
 
-@media screen and (max-width: 1200px) {
+/*@media screen and (max-width: 1200px) {
   th{
     display: none;
   }
