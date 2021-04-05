@@ -122,15 +122,14 @@ table {
   max-width: 2000px;
 }
 
-/*table td, table th {
-  border: .02px solid transparent	;
-  color: #DAA520	;
+table td, table th {
+  border: .02px solid transparent;
+  color: #DAA520;
   padding: 50px 20px 30px 20px;
   font-family: ParryHotter;
-
 }
 
-tr {
+/*tr {
   background: #f4f7f8;
   border-bottom: 1px solid #FFF;
   margin-bottom: 5px;
